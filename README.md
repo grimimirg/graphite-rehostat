@@ -11,7 +11,7 @@ Moving the slider closer to the input decreases resistance; moving it away incre
 ![Graphite Rehostat cursor](cursor.jpg)
 ![Graphite Rehostat cursor](cursor_2.jpg)
 ![Graphite Rehostat graph_attach](graph_attach.jpg)
-![Graphite Rehostat graph_attach](graph_attach_2.jpg)
+![Graphite Rehostat graph_attach](graph_atach_2.jpg)
 
 ## 2) Materials
 - Wooden strip (base)
