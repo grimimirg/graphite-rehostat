@@ -7,6 +7,12 @@ A graphite lead is fixed in a groove in a wooden base. One end of the graphite i
 
 Moving the slider closer to the input decreases resistance; moving it away increases resistance.
 
+![Graphite Rehostat overview](overview.jpg)
+![Graphite Rehostat cursor](cursor.jpg)
+![Graphite Rehostat cursor](cursor_2.jpg)
+![Graphite Rehostat graph_attach](graph_attach.jpg)
+![Graphite Rehostat graph_attach](graph_attach_2.jpg)
+
 ## 2) Materials
 - Wooden strip (base)
 - Two screw eyes (to hold the guide rod)
