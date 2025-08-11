@@ -2,6 +2,12 @@
 
 This is a handmade rheostat designed for educational purposes, using a **graphite lead** (from a pencil) as the resistive element and a **sliding contact** to adjust resistance.
 
+A rheostat is a variable resistor that adjusts current by changing the length of the resistive path. This model uses a graphite pencil lead instead of the traditional wire coil and a sliding copper contact moves along the graphite, varying resistance between two terminals.
+
+Historically, rheostats were common in early electrical labs, lighting controls, and motor speed regulation and unlike a potentiometer (three terminals, voltage divider), a rheostat uses two terminals to directly control current.
+
+Curiosity: There are still locomotives that uses a rehostat to control their engine speed such as the legendary **FS Class E.656** or the **FS Class E.632** both still in use in the italian railways.
+
 ## 1) Overview
 A graphite lead is fixed in a groove in a wooden base. One end of the graphite is connected to the **input terminal**. A slider runs along a guide rod and carries a small loop made from copper wire that slightly penetrates the graphite, ensuring stable contact. The slider output is the **variable terminal**.
 
