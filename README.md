@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> ## This GitHub repository has reached its end of life
+>
+> Development has moved to my self-hosted Gitea instance, and further
+> improvements will only land there:
+>
+> ### 👉 https://git.grimilab.duckdns.org/andreagrimandi/graphite-rehostat
+>
+> This copy stays online for reference, but it is **no longer updated**, and
+> issues or pull requests opened here will not be picked up. Please switch to
+> the repository above to follow the project.
+
+---
+
 # Graphite Rheostat — Educational Project
 
 This is a handmade rheostat designed for educational purposes, using a **graphite lead** (from a pencil) as the resistive element and a **sliding contact** to adjust resistance.
